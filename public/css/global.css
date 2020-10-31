@@ -1,0 +1,17 @@
+.pull-right {
+  float: right;
+}
+
+body {
+  overflow: hidden;
+}
+
+#chat {
+  position: fixed;
+  right:0;
+  bottom:0;
+}
+
+.scrollable {
+  overflow-y: scroll;
+}
